@@ -43,6 +43,8 @@ importers:
         specifier: ^5
         version: 5.5.4
 
+  packages/random: {}
+
 packages:
 
   '@alloc/quick-lru@5.2.0':
